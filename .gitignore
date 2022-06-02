@@ -1,6 +1,7 @@
 *.db
 *.user
 *.opendb
+*.app
 Debug/
 Release/
 .DS_Store
